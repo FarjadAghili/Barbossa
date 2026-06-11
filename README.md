@@ -1,4 +1,4 @@
-## 🔐 Barbossa 5.0
+## 🔐 Barbossa
 
 **Barbossa** is a lightweight encryption utility built with **AutoIt**, designed for experimenting with cryptographic operations and building a simple GUI-based security tool.  
 It was originally created years ago as a personal project for learning encryption and Windows desktop GUI development.
